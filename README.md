@@ -1,2 +1,2 @@
 # Develop
-Development Repository for ARRE
+Development Repository for ARRE applications
